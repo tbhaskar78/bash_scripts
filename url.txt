@@ -1,0 +1,8 @@
+https://msn.com:443/services/f?a
+https://google.com:443
+http://example.com:80/c/ca/s
+https://www.google.ie/ 
+https://www.facebook.com/ 
+https://www.kooba.ie/
+
+
